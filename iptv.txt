@@ -1060,3 +1060,14 @@ Nick Jr,P2p://lino.homeunix.com:6007/59fcf253000a066a01df120704291dc3.ts
 Z 频道,P2p://lino.homeunix.com:6007/5acb650d0006707f2b8d716537d413a9.ts
 HKS,P2p://lino.homeunix.com:6007/5afbd0d7000dfbc54833015a3ca55f37.ts
 霹雳台湾台,P2p://lino.homeunix.com:6007/5b07a59b0005c8ff766a65e653565438.ts
+初恋那件小事,#genre#
+29，https://ll1.7639616.com/hls/20191119/a82150925ec9bbd709a9214db6084662/1574094672/index.m3u8
+30,https://txxs.mahua-yongjiu.com/20191118/4085_fb90ad15/1000k/hls/index.m3u8
+31,https://txxs.mahua-yongjiu.com/20191119/4254_4eb60957/1000k/hls/index.m3u8
+32,https://txxs.mahua-yongjiu.com/20191119/4248_56b5177b/1000k/hls/index.m3u8
+33,https://txxs.mahua-yongjiu.com/20191120/4425_e51c91d3/1000k/hls/index.m3u8
+34,https://txxs.mahua-yongjiu.com/20191120/4427_ef8b1a12/1000k/hls/index.m3u8
+35,https://txxs.mahua-yongjiu.com/20191121/4617_0c9225d9/1000k/hls/index.m3u8
+36,https://txxs.mahua-yongjiu.com/20191121/4616_31344be0/1000k/hls/index.m3u8
+
+
