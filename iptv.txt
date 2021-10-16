@@ -1,44 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@haha879 
-Signed in as haha879
-Your profile
-Your repositories
-Your codespaces
-Your projects
-Your stars
-Your gists
-Upgrade
-Help
-Settings
-Sign out
-goolguy007
-/
-radioer
-Public
-6
-9032
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-radioer/itv.txt
-@goolguy007
-goolguy007 Update itv.txt
-Latest commit bdbcfbd 17 hours ago
- History
- 1 contributor
-1839 lines (1839 sloc)  177 KB
-   
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",北京IPTV 4K超清
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/2.m3u8
@@ -1878,16 +1837,4 @@ rtsp://hkss3.phoenixtv.com:80/fs/pic.stream_audio
 rtsp://hkss3.phoenixtv.com:80/fs/pcc.stream_audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://c1.fengshows-cdn.com/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰卫视香港台
 rtsp://hkss3.phoenixtv.com:80/fs/phk.stream_audio
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
