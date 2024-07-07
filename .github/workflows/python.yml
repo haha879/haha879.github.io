@@ -2,7 +2,7 @@ name: Convert M3U to TXT
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '5 8,23 * * *'
 
 jobs:
   convert:
