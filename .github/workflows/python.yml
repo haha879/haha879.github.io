@@ -1,7 +1,6 @@
 name: Convert M3U to TXT
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '30 8,0 * * *'
   push:
