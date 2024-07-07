@@ -22,7 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install m3u8 requests
 
     - name: Run Python script
       run: python m3utotxt.py
