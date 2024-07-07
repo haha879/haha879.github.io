@@ -28,7 +28,9 @@ jobs:
         pip install m3u8 requests
 
     - name: Run Python Script
-      run: python m3utotxt.py
+      run: |
+        python ${{ github.workspace }}/m3utotxt.py
+      #run: python m3utotxt.py
 
     - name: Upload txt file as artifact
       uses: actions/upload-artifact@v3
