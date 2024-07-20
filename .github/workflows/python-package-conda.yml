@@ -4,8 +4,7 @@ on:
   schedule:
     - cron: '45 21 * * *'
   workflow_dispatch:
-    branches:
-      - master
+    
 
 jobs:
   run_script:
